@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madeehakhan5
 - 👀 I’m interested in technical skills
-- 🌱 I’m currently learning Amazon Web Services
-- 💞️ I’m looking to collaborate on cloud computing platforms.
+- 🌱 I’m currently working in Infosys as Systems Engineer.
+- 💞️ I’m looking to collaborate on Java + DSA.
 - 📫 How to reach me -madeehakhan7861@gmail.com
 
 <!---
